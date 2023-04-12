@@ -8,7 +8,7 @@
 ##
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=teyzinho&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teyzinho&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teyzinho&layout=compact&theme=github_dark&langs_count=8)](https://github.com/teyzinho/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
