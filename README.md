@@ -5,7 +5,7 @@
 - ⚡ Conhecimento com HTML, CSS, PHP, SQL, JS, C e Java.
 - 💬 Pretendendo Estudar sobre C#
 
-
+##
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=teyzinho&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teyzinho&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,4 +20,11 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
   <img align="right" alt="" height="150" style="border-radius:50px;" src="#">
+</div>
+
+ ##
+
+<div> 
+  <a href="https://www.linkedin.com/in/thiago-silva-medeiros-tey/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
