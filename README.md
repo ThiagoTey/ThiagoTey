@@ -1,7 +1,7 @@
 ### Olá! Sou Thiago Silva 👋
 
 - 🔭 Estudando para ser um programador FULLSTACK!
-- 🌱 Atualmente estudando Python, JavaScript.
+- 🌱 Atualmente estudando React e as frameworks relacionadas!
 - ⚡ Conhecimento com HTML, CSS, PHP, SQL, JS, C e Java.
 - 💬 Pretendendo Estudar sobre C#
 
