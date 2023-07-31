@@ -3,7 +3,7 @@
 - 🔭 Estudando para ser um programador FULLSTACK!
 - 🌱 Atualmente estudando React e as frameworks relacionadas!
 - ⚡ Conhecimento com HTML, CSS, Nextjs, React, TypeScript, TailWind, PHP, Java e Banco de dados!
-- 💬 Pretendendo Estudar sobre C#
+- 💬 Tenho planos de estudar C# e GameDev no futuro.
 
 ##
 
