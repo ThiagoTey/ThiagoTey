@@ -1,8 +1,8 @@
 ### Olá! Sou Thiago Silva 👋
 
-- 🔭 Estudando para ser um programador FULLSTACK!
+- 🔭 Programador FULLSTACK!
 - 🌱 Atualmente estudando React e as frameworks relacionadas!
-- ⚡ Conhecimento com HTML, CSS, Nextjs, React, TypeScript, TailWind, PHP, Java e Banco de dados!
+- ⚡ Conhecimento com HTML, CSS, Nextjs, React, Node.js, JavaScript, TypeScript, TailWind, PHP, Java e Sql!
 - 💬 Tenho planos de estudar C# e GameDev no futuro.
 
 ##
