@@ -1,14 +1,11 @@
 ### Olá! Sou Thiago Silva 👋
 
 - 🔭 Programador FULLSTACK!
-- 🌱 Atualmente estudando React e as frameworks relacionadas!
-- ⚡ Conhecimento com HTML, CSS, Nextjs, React, Node.js, JavaScript, TypeScript, TailWind, PHP, Java e Sql!
-- 💬 Tenho planos de estudar C# e GameDev no futuro.
 
 ##
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=teyzinho&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teyzinho&layout=compact&theme=github_dark&langs_count=8)](https://github.com/teyzinho/github-readme-stats)
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoTey&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoTey&layout=compact&theme=github_dark&langs_count=8)](https://github.com/ThiagoTey/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
